@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- Cabeçalho-->
+    <header>
+        <h1>Titulo do site</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteudo-->
+
+    <main>
+        <!--Exemplo de conteudo 1-->
+        <article>
+            <header>
+                <h2>Tirulo do artigo 1</h2>
+                <p>Subtitulo do artigo 1</p>
+            </header>
+            <figure>
+                <img src="" alt="Palavra chave" width="300px" height="300px">
+            </figure>
+            <aside>
+                <p>Descricao do artigo 1</p>
+            </aside>
+            <footer>
+                <p>Postado por Marley Ferreira</p>
+                <time datetime="2018-09-03 12:00">Data da postagem</time>
+            </footer>
+        </article>
+    </main>
+
+    <main>
+        <!--Exemplo de conteudo 2-->
+        <article>
+            <header>
+                <h2>Tirulo do artigo 2</h2>
+                <p>Subtitulo do artigo 2</p>
+            </header>
+            <figure>
+                <img src="" alt="Palavra chave" width="300px" height="300px">
+            </figure>
+            <aside>
+                <p>Descricao do artigo 2</p>
+            </aside>
+            <footer>
+                <p>Postado por Marley Ferreira</p>
+                <time datetime="2018-09-03 12:00">Data da postagem</time>
+            </footer>
+        </article>
+    </main>
+
+    <!--Sidebar direita com relação ao artigo-->
+    <aside>
+        <section>
+            <h2>Seção do artigo relacionado</h2>
+            <p>Conteudo da section 01</p>
+        </section>
+        <section>
+            <h2>Seção do artigo relacionado</h2>
+            <p>Conteudo da section 02</p>
+        </section>
+        <section>
+            <h2>Seção do artigo relacionado</h2>
+            <p>Conteudo da section 03</p>
+        </section>
+    </aside>
+
+    <!--Rodapé-->
+    <footer>
+        <h3>Navegação 01</h3>
+        <nav>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </nav>
+
+        <h3>Navegação 02</h3>
+        <nav>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </nav>
+
+        <h3>Navegação 03</h3>
+        <nav>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </nav>
+
+        <address>
+            <p>Contato</p>
+            <a href="#">marleyryann@gmail.com</a>
+        </address>
+
+    </footer>
+
+</body>
+</html>
